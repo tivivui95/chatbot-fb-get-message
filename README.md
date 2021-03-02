@@ -1,5 +1,5 @@
 # Auto log message from facebook page
-This is a server which is getting message from Facebook Page Messenger for labeling and predicting emotion from Vietnamese text messages using NodeJs, ExpressJs, Flask backend and Pug NodeJs with Bootstrap for frontend.
+This is a server which is getting message from Facebook Page Messenger for labeling and predicting emotion from Vietnamese text messages using NodeJs, ExpressJs, Flask backend and Pug NodeJs for frontend.
 ## How to use
 Install NodeJs and other lib requirements
 ```
@@ -24,4 +24,4 @@ This code is setup to connect with our Flask API for Emotion classification mode
 We are using PSID and json file to temporarily save messages from user, you can export data from `webhook-event` to save file
 
 ## Frontend
-We are using Pug for Nodejs and Bootstrap 4 for our front-end webpage, full document can be found on their official website.
+We are using Pug for Nodejs, Chartjs for Nodejs and Bootstrap 4 for our front-end webpage, full document can be found on their official website.
